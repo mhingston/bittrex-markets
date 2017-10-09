@@ -1,0 +1,17 @@
+{
+  "name": "bittrex-markets",
+  "version": "1.0.0",
+  "description": "Generate an RSS feed for available Bittrex markets",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Miles Hingston <miles@bitshift.cc>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5",
+    "rss": "^1.2.2"
+  }
+}
